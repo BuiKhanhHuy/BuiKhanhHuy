@@ -12,7 +12,14 @@
 - ⚡ Fun fact: I'am very funny 
 
 ## 😉 Talk with me:
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/BuiKhanhHuy)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/khanhhuy2702/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/https://www.instagram.com/khanhhuy272//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/https://www.youtube.com/channel/UCn49BvcP1w1mamaOSGTKVZw)  
+<p align="left">
+<a href = "https://github.com/BuiKhanhHuy"><img src="https://img.icons8.com/fluency/48/000000/github.png"/></a>
+<a href = "linkedin.com/in/huy-khanh-2702"><img src="https://img.icons8.com/fluency/48/000000/linkedin.png"/></a>
+<a href = ""><img src="https://img.icons8.com/fluency/48/000000/stackoverflow.png"/></a>
+<a href = "https://www.facebook.com/https://www.facebook.com/khanhhuy2702/"><img src="https://img.icons8.com/color/48/000000/facebook.png"/></a>
+<a href = "https://www.instagram.com/https://www.instagram.com/khanhhuy272//"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+<a href = "https://www.youtube.com/channel/https://www.youtube.com/channel/UCn49BvcP1w1mamaOSGTKVZw"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a>
+</p>
 
 ## ⚡ GitHub Stats:
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BuiKhanhHuy&show_icons=true&theme=blue-green)
