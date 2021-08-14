@@ -9,7 +9,7 @@
 - 💬 Ask me about ...anything 
 - 📫 How to reach me: khuy220@gmail.com 
 - 😄 Pronouns: You/Your 
-- ⚡ Fun fact: I'am very funny 
+- ⚡ Fun fact: I am very funny 
 
 ## 😉 Talk with me:
 <p align="left">
