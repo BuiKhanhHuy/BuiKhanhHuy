@@ -14,8 +14,8 @@
 ## 😉 Talk with me:
 <p align="left">
 <a href = "https://github.com/BuiKhanhHuy"><img src="https://img.icons8.com/fluency/48/000000/github.png"/></a>
-<a href = "linkedin.com/in/huy-khanh-2702"><img src="https://img.icons8.com/fluency/48/000000/linkedin.png"/></a>
-<a href = ""><img src="https://img.icons8.com/fluency/48/000000/stackoverflow.png"/></a>
+<a href = "https://www.linkedin.com/in/huy-khanh-2702/"><img src="https://img.icons8.com/fluency/48/000000/linkedin.png"/></a>
+<a href = "https://stackoverflow.com/users/16664665/khanhhuy"><img src="https://img.icons8.com/fluency/48/000000/stackoverflow.png"/></a>
 <a href = "https://www.facebook.com/https://www.facebook.com/khanhhuy2702/"><img src="https://img.icons8.com/color/48/000000/facebook.png"/></a>
 <a href = "https://www.instagram.com/https://www.instagram.com/khanhhuy272//"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 <a href = "https://www.youtube.com/channel/UCn49BvcP1w1mamaOSGTKVZw"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a>
