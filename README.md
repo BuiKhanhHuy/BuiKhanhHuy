@@ -20,4 +20,4 @@ Alternatively,
 - And if you have sub points, put two spaces before the dash or star:
   - Like this
   - And thi
-   [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/anuraghazra/github-readme-stats)
+   [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/BuiKhanhHuy/github-readme-stats)
