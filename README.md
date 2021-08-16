@@ -3,7 +3,6 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Huy</h1>
 <h3 align="center">I'm a student.</h3>
 
-## About me
 - 🌱 I’m currently learning Ho Chi Minh City Open University 
 - 👯 I’m looking to collaborate on open source
 - 💬 Ask me about ...anything 
