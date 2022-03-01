@@ -22,9 +22,7 @@
 </p>
 
 ## ⚡ GitHub Stats:
-<p align="center">
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BuiKhanhHuy&show_icons=true&theme=radical)
-  </p>
 <br />
 ## ⚡ Most Used Languages:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BuiKhanhHuy&theme=radical)
