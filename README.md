@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="#"><img width="50%" height="auto" src="https://github.com/BuiKhanhHuy/BuiKhanhHuy/blob/main/programing.png" height="175px"/></a>
+  <a href="#"><img width="50%" height="auto" src="https://github.com/BuiKhanhHuy/BuiKhanhHuy/blob/main/programing.png" height="175px" style="border-radius: 50%;"/></a>
 </p>
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">, I'm Huy</h1>
 <h3 align="center">I am an information technology student.</h3>
