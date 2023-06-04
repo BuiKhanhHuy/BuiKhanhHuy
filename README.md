@@ -2,7 +2,7 @@
   <a href="#"><img width="50%" height="auto" src="https://github.com/BuiKhanhHuy/BuiKhanhHuy/blob/main/image.png" height="120px" style="border-radius: 50%;"/></a>
 </p>
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">, I'm Huy</h1>
-<h3 align="center">I am a web developer.</h3>
+<h3 align="center">I'm a programmer.</h3>
 
 - 🌱 I’m currently learning Ho Chi Minh City Open University 
 - 👯 I’m looking to collaborate on open source
@@ -14,9 +14,9 @@
 ## 😉 Talk with me:
 <p align="left">
 <a href = "https://github.com/BuiKhanhHuy"><img src="https://img.icons8.com/fluency/48/000000/github.png"/></a>
-<a href = "https://www.linkedin.com/in/huy-khanh-2702/"><img src="https://img.icons8.com/fluency/48/000000/linkedin.png"/></a>
+<a href = "https://www.linkedin.com/in/huy-khanh-10041b20b/"><img src="https://img.icons8.com/fluency/48/000000/linkedin.png"/></a>
 <a href = "https://www.facebook.com/bkhuy/"><img src="https://img.icons8.com/color/48/000000/facebook.png"/></a>
-<a href = "https://www.instagram.com/bkhuy2702/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+<a href = "https://www.instagram.com/huybk2/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 <a href = "https://www.youtube.com/channel/UCn49BvcP1w1mamaOSGTKVZw"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a>
 </p>
 
