@@ -4,7 +4,7 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">, I'm Huy</h1>
 <h3 align="center">I'm a Software Developer.</h3>
 
-- 🌱 I’m currently learning Ho Chi Minh City Open University 
+- 🌱 I graduated from the Ho Chi Minh City Open University
 - 👯 I’m looking to collaborate on open source
 - 💬 Ask me about ...anything 
 - 📫 How to reach me: khuy220@gmail.com 
