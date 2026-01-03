@@ -68,40 +68,25 @@
 
 </div>
 
-## 📊 GitHub Statistics
+## 📊 GitHub Statistics & 3D Activity
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=BuiKhanhHuy&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&rank_icon=github&cache_seconds=86400">
-    <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=BuiKhanhHuy&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&rank_icon=github&cache_seconds=86400" alt="GitHub Stats" />
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=BuiKhanhHuy&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D">
-    <img width="49%" height="195px" src="https://streak-stats.demolab.com?user=BuiKhanhHuy&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
-  </picture>
+  <a href="https://github.com/BuiKhanhHuy">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BuiKhanhHuy&theme=tokyonight" alt="Contribution Graph" width="100%"/>
+  </a>
 </div>
 
 <br/>
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=BuiKhanhHuy&theme=tokyonight&hide_border=true&layout=compact&langs_count=8&card_width=600&cache_seconds=86400">
-    <img width="70%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BuiKhanhHuy&theme=tokyonight&hide_border=true&layout=compact&langs_count=8&card_width=600&cache_seconds=86400" alt="Top Languages" />
-  </picture>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=BuiKhanhHuy&theme=tokyonight&utcOffset=7" alt="Productive Time" width="49%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/commits?username=BuiKhanhHuy&theme=tokyonight" alt="Commit Stats" width="49%"/>
 </div>
-
-> 💡 **Note:** Stats may take a few seconds to load. If images don't appear, try refreshing the page!
 
 ## 🏆 GitHub Achievements
 
 <div align="center">
   <img width="100%" src="https://github-profile-trophy.vercel.app/?username=BuiKhanhHuy&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4&row=2&column=4" alt="GitHub Trophies" />
-</div>
-
-## 📈 Contribution Activity
-
-<div align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=BuiKhanhHuy&custom_title=Huy%27s%20Contribution%20Graph&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area_color=70a5fd&title_color=70a5fd&area=true&hide_border=true" alt="Contribution Graph" />
 </div>
 
 ## 💼 Backend Development Expertise
@@ -158,7 +143,7 @@ const huy = {
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/huy-khanh-10041b20b/)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/bkhuy/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/huy.buikhanh_/)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCn49BvcP1w1mamaOSGTKVZw)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@huy.buikhanh)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:khuy220@gmail.com)
 
 </div>
@@ -174,7 +159,7 @@ const huy = {
 <table align="center">
   <tr>
     <td align="center" width="50%">
-      <img src="https://img.icons8.com/color/96/000000/momo.png" alt="Momo" width="80"/><br/>
+      <img src="https://private-user-images.githubusercontent.com/69914972/531608978-b125f2ca-c071-4e17-a534-e6d40e84b3e3.jpg?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3Njc0MzA5NjQsIm5iZiI6MTc2NzQzMDY2NCwicGF0aCI6Ii82OTkxNDk3Mi81MzE2MDg5NzgtYjEyNWYyY2EtYzA3MS00ZTE3LWE1MzQtZTZkNDBlODRiM2UzLmpwZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjAxMDMlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwMTAzVDA4NTc0NFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTY2MmJkODNkNGJhODZmM2E1N2JjYWI2ZjJjNDhmNmJhYjYzODQ4YjZlMjYyZWFkNWFjY2M1OTY5ZjQ3OWZiNDEmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.x9rWowsV6SZh17zUtd4AlSXthIZHvkZZoaHhSeWpM10" alt="Momo" width="80"/><br/>
       <b>Momo Payment</b><br/>
       <code>0888425094</code><br/>
       <sub>Bùi Khánh Huy</sub>
