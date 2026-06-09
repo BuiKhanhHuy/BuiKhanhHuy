@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=3F8AFF&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Backend+Developer+%F0%9F%9A%80;Cloud+%26+API+Specialist+%E2%98%81%EF%B8%8F;Open+Source+Enthusiast+%E2%9C%A8" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=3F8AFF&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Software+Engineer+%F0%9F%9A%80;Cloud+%26+API+Specialist+%E2%98%81%EF%B8%8F;Open+Source+Enthusiast+%E2%9C%A8" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -18,7 +18,7 @@
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
 - 🎓 Graduated from **Ho Chi Minh City Open University**
-- 💼 Currently working as a **Backend Developer**
+- 💼 Currently working as a **Software Engineer**
 - 🌱 Learning **AWS Cloud Technologies & Microservices**
 - 👯 Looking to collaborate on **Open Source Projects**
 - 💬 Ask me about **RESTful APIs, Database Design, System Architecture**
@@ -89,11 +89,11 @@
   <img width="100%" src="https://github-profile-trophy.vercel.app/?username=BuiKhanhHuy&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4&row=2&column=4" alt="GitHub Trophies" />
 </div>
 
-## 💼 Backend Development Expertise
+## 💼 Software Engineer Expertise
 
 ```typescript
 const huy = {
-    role: "Backend Developer",
+    role: "Software Engineer",
     code: ["JavaScript", "TypeScript", "Python"],
     technologies: {
         backEnd: {
